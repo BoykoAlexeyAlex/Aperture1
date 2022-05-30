@@ -324,9 +324,13 @@ header nav ul li a:hover {
 .container2 {
     max-width: 1200px;
     margin: auto;
-    display: flex;
 
-   }
+       }
+
+.container2 img {
+    display: block;
+    max-width: 100%;
+}
 
 
 
