@@ -1,7 +1,7 @@
 * {
     padding: 0;
     margin: 0;
-    ;
+    font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -33,7 +33,7 @@ header nav ul li {
 
 header nav a {
     text-decoration: none;
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 15px;
@@ -58,7 +58,7 @@ header nav ul li:last-of-type a {
     padding: 11px 20px;
     background: #FFFFFF;
     border-radius: 14px;
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -88,7 +88,7 @@ header nav ul li a:hover {
 }
 
 .main_banner h3 {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -99,7 +99,7 @@ header nav ul li a:hover {
 }
 
 .main_banner h1 {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 54px;
@@ -109,7 +109,7 @@ header nav ul li a:hover {
 }
 
 .main_banner p {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -131,7 +131,7 @@ header nav ul li a:hover {
 
 .components li {
     margin-left: 16px;
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 12px;
@@ -201,7 +201,7 @@ header nav ul li a:hover {
 }
 
 .section_past_clients h2 {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -212,7 +212,7 @@ header nav ul li a:hover {
 }
 
 .section_past_clients h3 {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -256,7 +256,7 @@ header nav ul li a:hover {
 }
 
 .section_help h2 {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -268,7 +268,7 @@ header nav ul li a:hover {
 }
 
 .section_help h3 {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
@@ -279,8 +279,7 @@ header nav ul li a:hover {
 }
 
 
-
-.section_help a{
+.section_help a {
     background: #FFFFFF;
     border-radius: 14px;
     display: block;
@@ -293,12 +292,13 @@ header nav ul li a:hover {
     transition: 0.3s;
 
 }
+
 .section_help a:hover {
     transform: scale(1.1);
 }
 
 .get_in_touch {
-    font-family: 'Arial';
+
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -309,7 +309,7 @@ header nav ul li a:hover {
     display: flex;
     align-items: center;
     margin: 9px 10px 13px 0;
-    }
+}
 
 .get_in_touch:before {
     content: "";
@@ -321,16 +321,7 @@ header nav ul li a:hover {
 
 }
 
-.container2 {
-    max-width: 1200px;
-    margin: auto;
 
-       }
-
-.container2 img {
-    display: block;
-    max-width: 100%;
-}
 
 
 
